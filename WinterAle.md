@@ -1,7 +1,10 @@
 # Nerdkiez Winter Ale
 
 First time brewed: 8 December 2018
+
 Brewed again 2 March 2019
+
+![Dark Winter Ale](static/winterale.jpg)
 
 ## Description
 

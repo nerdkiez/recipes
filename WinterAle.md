@@ -9,10 +9,13 @@ Dark ale to keep you warm in the winter time. Comes with a beautiful foam top.
 
 ## Ingredients
 
-20L Main pour
-10L After pour
+20L Mash
 
-### Mash
+10L Sparge
+
+We used Berlin tap water which is considered medium hard to hard (14 °dH).
+
+### Fermentables
 
 - Pale Ale malt 3,45 kg
 - Corn flakes 500g
@@ -23,8 +26,13 @@ Dark ale to keep you warm in the winter time. Comes with a beautiful foam top.
 
 ### Hops / flavoring
 
-Magnum: 23g with 3.2% (80min)
-EKG: 9g 5,8% (10 min)
+Total boiling time is 90 minutes from hot break.
+
+|Hop                 |Amount              | Time to finish |
+|--------------------|--------------------|----------------|
+|Magnum (3.2% Alpha) |23g                 |80 min          |
+|East Kent Golding (5,8% Alpha) |9g       |10 min          |
+
 
 ## Brewing
 
@@ -35,6 +43,13 @@ EKG: 9g 5,8% (10 min)
 |Maltose rest| 62°C |30min  |
 |Sugar rest| 72°C   |20min |   
 |Mash out         |78°C   ||
+
+
+## Fermentation
+
+Salafe S-04 Ale yeast from starter.
+
+Fermentation takes about 7 to 10 days at 19°C
 
 ## Brewer's tip
 
